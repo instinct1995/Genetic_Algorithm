@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2012\Projects\Genetic_Algorythm\Genetic_Algorythm\bin\Debug\Genetic_Algorythm.exe
+c:\users\user\documents\visual studio 2012\Projects\Genetic_Algorythm\Genetic_Algorythm\bin\Debug\Genetic_Algorythm.pdb
+c:\users\user\documents\visual studio 2012\Projects\Genetic_Algorythm\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Genetic_Algorythm\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Genetic_Algorythm\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.Form2.resources
+c:\users\user\documents\visual studio 2012\Projects\Genetic_Algorythm\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Genetic_Algorythm\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Genetic_Algorythm\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.exe
+c:\users\user\documents\visual studio 2012\Projects\Genetic_Algorythm\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.pdb
+C:\Users\temaz\Desktop\Genetic_Algorithm-master\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.exe
+C:\Users\temaz\Desktop\Genetic_Algorithm-master\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.pdb
+C:\Users\temaz\Desktop\Genetic_Algorithm-master\Genetic_Algorythm\bin\Debug\Genetic_Algorythm.exe
+C:\Users\temaz\Desktop\Genetic_Algorithm-master\Genetic_Algorythm\bin\Debug\Genetic_Algorythm.pdb
+C:\Users\temaz\Desktop\Genetic_Algorithm-master\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.csprojResolveAssemblyReference.cache
+C:\Users\temaz\Desktop\Genetic_Algorithm-master\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.Form2.resources
+C:\Users\temaz\Desktop\Genetic_Algorithm-master\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.Properties.Resources.resources
+C:\Users\temaz\Desktop\Genetic_Algorithm-master\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.csproj.GenerateResource.Cache
+C:\Я\Tema\Всякое\универ\СурГУ\7 семестр\Интеллектуальные системы\Лабы\2 лаба\Genetic_Algorithm-master\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.exe
+C:\Я\Tema\Всякое\универ\СурГУ\7 семестр\Интеллектуальные системы\Лабы\2 лаба\Genetic_Algorithm-master\Genetic_Algorythm\obj\Debug\Genetic_Algorythm.pdb
